@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Route Rating General Support
+    url: https://github.com/LukeShay/route-rating
+    about: Please ask and answer general questions here.
+  - name: Route Rating Backend Support
+    url: https://github.com/LukeShay/route-rating-serverless
+    about: Please ask and answer backend related questions here.
